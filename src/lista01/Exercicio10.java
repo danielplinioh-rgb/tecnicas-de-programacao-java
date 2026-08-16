@@ -1,4 +1,9 @@
-u    //Declarando variáveis para armazenamento das notas
+    package lista01;
+
+    public class Exercicio10 {
+    public static void main(String[] args) {
+
+    //Declarando variáveis para armazenamento das notas
     double nota1 = 10;
     double nota2 = 8.6;
     double nota3 = 7.5;
