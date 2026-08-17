@@ -21,10 +21,13 @@ public class Exercicio16 {
     String curso = scanner.nextLine();
 
     //Exibindo ficha
-
+    System.out.println("------------------------------");
+    System.out.println("        Ficha do Usuário      ");
+    System.out.println("------------------------------");
     System.out.printf("Nome: %s%n", nome);
     System.out.printf("Idade: %d anos%n", idade);
     System.out.printf("Curso: %s%n", curso);
+    System.out.println("------------------------------");
 
     //Fechamento do Scanner
     scanner.close();
