@@ -1,4 +1,4 @@
-package autoestudo.exercicio1.exercicio2;
+package autoestudo.exercicio2;
 
 public class Videoaula extends Conteudo {
     public String plataforma;

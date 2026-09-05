@@ -1,4 +1,4 @@
-package autoestudo.exercicio1.exercicio2;
+package autoestudo.exercicio2;
 
 public class Conteudo {
     
@@ -17,4 +17,3 @@ public class Conteudo {
         System.out.println("Duração : " + this.duracaoMinutos + " minutos");
     }
 }
-    
